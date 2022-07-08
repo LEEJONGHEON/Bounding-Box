@@ -22,6 +22,11 @@
 - Annotation 정보
 ### ![image](https://user-images.githubusercontent.com/54635552/178027017-24c207e9-5f65-4a13-8dea-29bb947598e9.png)
 
+- !python main.py --path /content/Yolo-to-COCO-format-converter/tutorial/train.txt --output train --debug
+- Bounding box debug 모드, GUI방식에서만가능
+### ![image](https://user-images.githubusercontent.com/54635552/178028752-01d874e5-c027-4705-a1a8-eb4f0515fbf6.png)
+
+
 ## YOLO DataSet
 - 바운딩 박스 좌표(x,y,w,h)
 - 중심점 (x,y) , 가로 세로
