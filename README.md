@@ -9,6 +9,8 @@
 - 바운딩 박스 좌표(x,y,w,h)
 - 중심점 (x,y) , 가로 세로
 ### ![image](https://user-images.githubusercontent.com/54635552/178009327-939cdc01-9e40-4678-a493-e7c78a07faac.png)
+### VOC_TO_YOLO.py
+- KITTI,VOC 형식 YOLO로 바꾸고 Normalization까지 진행하는 코드
 
 ## KITTI , VOC DataSet
 - 바운딩 박스 좌표(x,y,x,y)
