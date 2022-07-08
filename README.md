@@ -26,6 +26,10 @@
 - Bounding box debug 모드, GUI방식에서만가능
 ### ![image](https://user-images.githubusercontent.com/54635552/178028752-01d874e5-c027-4705-a1a8-eb4f0515fbf6.png)
 
+- 단일폴더에 jpg파일과 바운딩박스 좌표 txt 파일이 있는경우
+### ![image](https://user-images.githubusercontent.com/54635552/178029413-7d30510e-bd79-4554-973d-36ab0211a172.png)
+- !python main.py --path /content/Yolo-to-COCO-format-converter/tutorial --output train
+- 
 
 ## YOLO DataSet
 - 바운딩 박스 좌표(x,y,w,h)
